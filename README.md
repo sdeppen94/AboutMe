@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deppensylvia
+- 👋 Hi, I’m Sylvia!
 - 👀 I'm a midlevel software engineer. I started my SWE career in 2021 and I've worked on projects in renewable energy and medicaid.
     Prior to software engineering, I studied neurobiology, data science, UX, and business. 
 - 🌱 I’m currently working on my Angular development projects, implementing DevOps practices, and learning about Flow Engineering
